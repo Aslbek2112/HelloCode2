@@ -1,0 +1,15 @@
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\obj\Debug\net6.0\Example001_HelloWorld.csproj.AssemblyReference.cache
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\obj\Debug\net6.0\Example001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\obj\Debug\net6.0\Example001_HelloWorld.AssemblyInfoInputs.cache
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\obj\Debug\net6.0\Example001_HelloWorld.AssemblyInfo.cs
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\obj\Debug\net6.0\Example001_HelloWorld.csproj.CoreCompileInputs.cache
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\bin\Debug\net6.0\Example001_HelloWorld.exe
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\bin\Debug\net6.0\Example001_HelloWorld.deps.json
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\bin\Debug\net6.0\Example001_HelloWorld.runtimeconfig.json
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\bin\Debug\net6.0\Example001_HelloWorld.dll
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\bin\Debug\net6.0\Example001_HelloWorld.pdb
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\obj\Debug\net6.0\Example001_HelloWorld.dll
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\obj\Debug\net6.0\refint\Example001_HelloWorld.dll
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\obj\Debug\net6.0\Example001_HelloWorld.pdb
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\obj\Debug\net6.0\Example001_HelloWorld.genruntimeconfig.cache
+F:\Practise_lecture_Homework\Example_Lecture01_C\Example001_HelloWorld\obj\Debug\net6.0\ref\Example001_HelloWorld.dll
